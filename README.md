@@ -4,10 +4,10 @@
 <img width="200" src="https://raw.githubusercontent.com/prathercc/prathercc/main/filter19.png">
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=prathercc&date_format=M%20j%5B%2C%20Y%5D" >
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prathercc&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" >
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prathercc&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=prathercc&count_private=true&theme=highcontrast">
 </p>
 <table align="center">
   <tr>
