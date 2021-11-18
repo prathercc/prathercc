@@ -1,5 +1,5 @@
 <p align="center">
-<img width="150" src="https://raw.githubusercontent.com/prathercc/prathercc/main/filter19.png">
+<img src="https://raw.githubusercontent.com/prathercc/prathercc/main/banner.png">
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=prathercc&count_private=true&theme=ayu-mirage&include_all_commits=true&show_icons=true&hide=stars,contribs&hide_border=true">
