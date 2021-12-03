@@ -10,6 +10,7 @@
 
 <p align="center">
 <a href="https://prather.cc"><img src="https://img.shields.io/badge/Prather.cc-Visit-gold.svg?style=plastic&logo=JavaScript"></a>
+<a href="https://github.com/prathercc/mavtion/raw/main/mavtion.jar"><img src="https://img.shields.io/badge/Mavtion.jar-Download-purple.svg?style=plastic&logo=java"></a>
 <a href="https://github.com/prathercc/discrub/raw/development/Discrub.jar"><img src="https://img.shields.io/badge/Discrub.jar-Download-blue.svg?style=plastic&logo=java"></a>
 <a href="https://github.com/prathercc/Click-Servant/raw/Development/Click-Servant.exe"><img src="https://img.shields.io/badge/Click Servant.exe-Download-red.svg?style=plastic&logo=.NET"></a>
 </p>
