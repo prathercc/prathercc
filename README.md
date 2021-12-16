@@ -15,6 +15,8 @@
 <a href="https://github.com/prathercc/mavtion/raw/main/mavtion.jar"><img src="https://img.shields.io/badge/Mavtion.jar-Download-purple.svg?style=plastic&logo=java"></a>
 <a href="https://github.com/prathercc/discrub/raw/development/Discrub.jar"><img src="https://img.shields.io/badge/Discrub.jar-Download-blue.svg?style=plastic&logo=java"></a>
 <a href="https://github.com/prathercc/Click-Servant/raw/Development/Click-Servant.exe"><img src="https://img.shields.io/badge/Click Servant.exe-Download-red.svg?style=plastic&logo=.NET"></a>
+<a href="https://github.com/prathercc/Toy-Factory/raw/master/Project2/bin/Debug/Project2.exe"><img src="https://img.shields.io/badge/Toy Factory.exe-Download-green.svg?style=plastic&logo=.NET"></a>
+<a href="https://github.com/prathercc/Telemarketer-Simulator/raw/master/Telemarketer%20Simulator/bin/Debug/Telemarketer%20Simulator.exe"><img src="https://img.shields.io/badge/Telemarketer Simulator.exe-Download-green.svg?style=plastic&logo=.NET"></a>
 </p>
 
 
