@@ -10,15 +10,14 @@
 </table>
 
 <p align="center">
-<a href="https://prather.cc"><img src="https://raw.githubusercontent.com/prathercc/prathercc/main/banner.png"></a>
-</p>
-<p align="center">
 <a href="https://github.com/prathercc"><img src="https://github-readme-stats.vercel.app/api?username=prathercc&count_private=true&theme=ayu-mirage&include_all_commits=true&show_icons=true&hide=stars,contribs&hide_border=true"></a>
 </p>
 <p align="center">
 <a href="https://github.com/prathercc"><img src="https://github-readme-streak-stats.herokuapp.com?user=prathercc&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D&border=DD272700" ></a>
 </p>
-
+<p align="center">
+<a href="https://prather.cc"><img src="https://raw.githubusercontent.com/prathercc/prathercc/main/banner.png"></a>
+</p>
 <table align="center">  
 <tr>  
 <th>Chrome Extensions</th>  
