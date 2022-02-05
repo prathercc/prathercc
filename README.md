@@ -25,18 +25,18 @@
 <th>Cross-Platform Apps</th>  
 </tr>  
 <tr>  
-<td align="center"><a href="https://chrome.google.com/webstore/detail/discrub/plhdclenpaecffbcefjmpkkbdpkmhhbj"><img src="https://img.shields.io/chrome-web-store/users/plhdclenpaecffbcefjmpkkbdpkmhhbj?label=Discrub&style=plastic"></a></td>  
-<td align="center"><a href="https://github.com/prathercc/Click-Servant/raw/Development/Click-Servant.exe"><img src="https://img.shields.io/badge/Click Servant.exe-Download-black.svg?style=plastic&logo=.NET"></a></td>  
-<td align="center"><a href="https://github.com/prathercc/mavtion/raw/main/mavtion.jar"><img src="https://img.shields.io/badge/Mavtion.jar-Download-purple.svg?style=plastic&logo=java"></a></td>  
+<td align="center"><a href="https://chrome.google.com/webstore/detail/discrub/plhdclenpaecffbcefjmpkkbdpkmhhbj"><img src="https://img.shields.io:/chrome-web-store/stars/plhdclenpaecffbcefjmpkkbdpkmhhbj?label=Discrub&logo=googlechrome&logoColor=lime"></a></td>  
+<td align="center"><a href="https://github.com/prathercc/Click-Servant/raw/Development/Click-Servant.exe"><img src="https://img.shields.io/badge/Click Servant.exe-Download-black.svg?style=plastic&logo=.NET&logoColor=black"></a></td>  
+<td align="center"><a href="https://github.com/prathercc/mavtion/raw/main/mavtion.jar"><img src="https://img.shields.io/badge/Mavtion.jar-Download-purple.svg?style=plastic&logo=java&logoColor=purple"></a></td>  
 </tr>  
 <tr>  
 <td align="center"></td>  
-<td align="center"><a href="https://github.com/prathercc/Toy-Factory/raw/master/Project2/bin/Debug/Project2.exe"><img src="https://img.shields.io/badge/Toy Factory.exe-Download-green.svg?style=plastic&logo=.NET"></a></td>  
-<td align="center"><a href="https://github.com/prathercc/discrub/raw/development/Discrub.jar"><img src="https://img.shields.io/badge/Discrub.jar-Download-blue.svg?style=plastic&logo=java"></a></td>  
+<td align="center"><a href="https://github.com/prathercc/Toy-Factory/raw/master/Project2/bin/Debug/Project2.exe"><img src="https://img.shields.io/badge/Toy Factory.exe-Download-green.svg?style=plastic&logo=.NET&logoColor=green"></a></td>  
+<td align="center"><a href="https://github.com/prathercc/discrub/raw/development/Discrub.jar"><img src="https://img.shields.io/badge/Discrub.jar-Download-blue.svg?style=plastic&logo=java&logoColor=blue"></a></td>  
 </tr>  
 <tr>  
 <td align="center"></td>  
-<td align="center"><a href="https://github.com/prathercc/Telemarketer-Simulator/raw/master/Telemarketer%20Simulator/bin/Debug/Telemarketer%20Simulator.exe"><img src="https://img.shields.io/badge/Telemarketer Simulator.exe-Download-cyan.svg?style=plastic&logo=.NET"></a></td>  
+<td align="center"><a href="https://github.com/prathercc/Telemarketer-Simulator/raw/master/Telemarketer%20Simulator/bin/Debug/Telemarketer%20Simulator.exe"><img src="https://img.shields.io/badge/Telemarketer Simulator.exe-Download-cyan.svg?style=plastic&logo=.NET&logoColor=cyan"></a></td>  
 <td align="center"></td>  
 </tr>  
 </table>
