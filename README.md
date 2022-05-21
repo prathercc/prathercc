@@ -25,7 +25,7 @@
 <th>Cross-Platform Apps</th>  
 </tr>  
 <tr>  
-<td align="center"><a href="https://chrome.google.com/webstore/detail/discrub/plhdclenpaecffbcefjmpkkbdpkmhhbj"><img src="https://img.shields.io:/chrome-web-store/stars/plhdclenpaecffbcefjmpkkbdpkmhhbj?label=Discrub&logo=javascript&logoColor=89CFF0&color=89CFF0"></a></td>  
+<td align="center"><a href="https://chrome.google.com/webstore/detail/discrub/plhdclenpaecffbcefjmpkkbdpkmhhbj"><img src="https://img.shields.io:/chrome-web-store/users/plhdclenpaecffbcefjmpkkbdpkmhhbj?label=Discrub&logo=javascript&logoColor=89CFF0&color=89CFF0"></a></td>  
 <td align="center"><a href="https://github.com/prathercc/Click-Servant/raw/Development/Click-Servant.exe"><img src="https://img.shields.io/badge/Click Servant.exe-Download-f3cc7c.svg?style=plastic&logo=windowsterminal&logoColor=f3cc7c"></a></td>  
 <td align="center"><a href="https://github.com/prathercc/mavtion/raw/main/mavtion.jar"><img src="https://img.shields.io/badge/Mavtion.jar-Download-89CFF0.svg?style=plastic&logo=ubuntu&logoColor=89CFF0"></a></td>  
 </tr>  
