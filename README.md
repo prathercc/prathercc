@@ -41,8 +41,4 @@
 </tr>  
 </table>
 
-<p align="center">
-<a href='https://ko-fi.com/W7W4AAIBR' target='_blank'><img width="155px" src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3'/></a>
-</p>
-
 
