@@ -1,14 +1,3 @@
-
-<table align="center">  
-<tr>  
-<th>Hey, I'm Aaron 👋</th>  
-</tr>  
-<tr>  
-<td align="center"><strong>I'm a React & Java developer and I love creating useful and cool apps!</strong>
-</td>  
-</tr>  
-</table>
-
 <p align="center">
 <a href="https://github.com/prathercc"><img src="https://github-readme-stats.vercel.app/api?username=prathercc&count_private=true&theme=ayu-mirage&include_all_commits=true&show_icons=true&hide=stars,contribs&hide_border=true"></a>
 </p>
