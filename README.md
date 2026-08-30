@@ -6,7 +6,7 @@
 
 ### Hi, I'm Aaron 👋
 
-Crafting one byte at a time at [@pratherbytecraft](https://github.com/pratherbytecraft). Browser extensions, Discord bots, and the libraries behind them, all built and maintained by me.
+Crafting one byte at a time at [@pratherbytecraft](https://github.com/pratherbytecraft). Browser extensions, Discord bots, and the libraries behind them.
 
 ## 🧽 Discrub
 
