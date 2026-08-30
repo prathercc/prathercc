@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://pratherbytecraft.com">
-    <img src="assets/pb-banner.png" alt="Prather Bytecraft" width="100%">
+    <img src="assets/pb-banner-fade.png" alt="Prather Bytecraft" width="100%">
   </a>
 </div>
 
