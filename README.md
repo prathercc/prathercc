@@ -37,7 +37,7 @@
     <td valign="top">
       <b>Scour</b> · Deletes messages by rule, at any age, with a receipt<br>
       Counts first and deletes after you confirm. Nightly retention works past the 14 day limit other bots stop at.<br>
-      <a href="https://discord.com/oauth2/authorize?client_id=1542622833388032050&scope=applications.commands&permissions=0&integration_type=0">Add to server</a> ·
+      <a href="https://discord.com/oauth2/authorize?client_id=1542622833388032050&scope=bot+applications.commandsscope=applications.commands&permissions=0&integration_type=0permissions=93184scope=applications.commands&permissions=0&integration_type=0integration_type=0">Add to server</a> ·
       <a href="https://pratherbytecraft.com/scour">Guide</a>
     </td>
   </tr>
