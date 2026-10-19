@@ -66,6 +66,16 @@
     </td>
   </tr>
   <tr>
+    <td width="72" align="center" valign="middle"><img src="assets/filedrawer-128.png" width="56" alt="Filedrawer"></td>
+    <td valign="top">
+      <b>Filedrawer</b> · A file manager for macOS<br>
+      Tabs, two panes, an address bar you can type a path into and a task pane. It opens in place of Finder's folder windows, with classic themes if you want a retro look.<br>
+      <a href="https://pratherbytecraft.com/filedrawer">Docs</a> ·
+      <a href="https://www.npmjs.com/package/filedrawer">npm</a> ·
+      <a href="https://github.com/pratherbytecraft/filedrawer">Source</a>
+    </td>
+  </tr>
+  <tr>
     <td width="72" align="center" valign="middle"><img src="assets/clipshot-128.png" width="56" alt="ClipShot"></td>
     <td valign="top">
       <b>ClipShot</b> · A macOS menu bar app for your recent screenshots<br>
