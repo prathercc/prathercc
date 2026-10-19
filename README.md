@@ -56,6 +56,16 @@
 
 <table>
   <tr>
+    <td width="72" align="center" valign="middle"><img src="assets/startbar-128.png" width="56" alt="Startbar"></td>
+    <td valign="top">
+      <b>Startbar</b> · A taskbar for macOS<br>
+      A bar along the bottom of the screen with a Start button, one button per open window, pinned apps and a clock, with classic themes if you want a retro look.<br>
+      <a href="https://pratherbytecraft.com/startbar">Docs</a> ·
+      <a href="https://www.npmjs.com/package/startbar">npm</a> ·
+      <a href="https://github.com/pratherbytecraft/startbar">Source</a>
+    </td>
+  </tr>
+  <tr>
     <td width="72" align="center" valign="middle"><img src="assets/clipshot-128.png" width="56" alt="ClipShot"></td>
     <td valign="top">
       <b>ClipShot</b> · A macOS menu bar app for your recent screenshots<br>
