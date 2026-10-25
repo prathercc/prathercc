@@ -4,124 +4,42 @@
   </a>
 </div>
 
-## Discrub
-
-<table>
-  <tr>
-    <td width="72" align="center" valign="middle"><img src="assets/discrub-128.png" width="56" alt="Discrub"></td>
-    <td valign="top">
-      <b>Export, search, purge and archive your Discord messages from your browser.</b><br>
-      Over 200,000 users on Chrome and Firefox.<br>
-      <a href="https://chromewebstore.google.com/detail/plhdclenpaecffbcefjmpkkbdpkmhhbj">Chrome Web Store</a> ·
-      <a href="https://addons.mozilla.org/firefox/addon/discrub/">Firefox Add-ons</a> ·
-      <a href="https://pratherbytecraft.com/discrub">Guide</a> ·
-      <a href="https://github.com/pratherbytecraft/discrub">Source</a>
-    </td>
-  </tr>
-</table>
-
-## Discord bots
-
-<table>
-  <tr>
-    <td width="72" align="center" valign="middle"><img src="assets/retrostat-128.png" width="56" alt="Retrostat"></td>
-    <td valign="top">
-      <b>Retrostat</b> · Statistics for any date range of a server's history<br>
-      Who posted the most, who got mentioned, which channels were busiest. Ranked lists with a chart and a CSV.<br>
-      <a href="https://discord.com/oauth2/authorize?client_id=1541785946343612448&scope=bot+applications.commands&permissions=117760&integration_type=0">Add to server</a> ·
-      <a href="https://pratherbytecraft.com/retrostat">Guide</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center" valign="middle"><img src="assets/scour-128.png" width="56" alt="Scour"></td>
-    <td valign="top">
-      <b>Scour</b> · Deletes messages by rule, at any age, with a receipt<br>
-      Counts first and deletes after you confirm. Nightly retention works past the 14 day limit other bots stop at.<br>
-      <a href="https://discord.com/oauth2/authorize?client_id=1542622833388032050&scope=bot+applications.commands&permissions=93184&integration_type=0">Add to server</a> ·
-      <a href="https://pratherbytecraft.com/scour">Guide</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center" valign="middle"><img src="assets/vested-128.png" width="56" alt="Vested"></td>
-    <td valign="top">
-      <b>Vested</b> · Roles with an expiry date<br>
-      Grant a role for a week, a month, or until a date. Vested removes it when the time is up.<br>
-      <a href="https://discord.com/oauth2/authorize?client_id=1543813583459323967&scope=bot+applications.commands&permissions=268435456&integration_type=0">Add to server</a> ·
-      <a href="https://pratherbytecraft.com/vested">Guide</a>
-    </td>
-  </tr>
-</table>
-
-## Packages and apps
-
-<table>
-  <tr>
-    <td width="72" align="center" valign="middle"><img src="assets/startbar-128.png" width="56" alt="Startbar"></td>
-    <td valign="top">
-      <b>Startbar</b> · A taskbar for macOS<br>
-      A bar along the bottom of the screen with a Start button, one button per open window, pinned apps and a clock, with classic themes if you want a retro look.<br>
-      <a href="https://pratherbytecraft.com/startbar">Docs</a> ·
-      <a href="https://www.npmjs.com/package/startbar">npm</a> ·
-      <a href="https://github.com/pratherbytecraft/startbar">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center" valign="middle"><img src="assets/filedrawer-128.png" width="56" alt="Filedrawer"></td>
-    <td valign="top">
-      <b>Filedrawer</b> · A file manager for macOS<br>
-      Tabs, two panes, an address bar you can type a path into and a task pane. It opens in place of Finder's folder windows, with classic themes if you want a retro look.<br>
-      <a href="https://pratherbytecraft.com/filedrawer">Docs</a> ·
-      <a href="https://www.npmjs.com/package/filedrawer">npm</a> ·
-      <a href="https://github.com/pratherbytecraft/filedrawer">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center" valign="middle"><img src="assets/clipshot-128.png" width="56" alt="ClipShot"></td>
-    <td valign="top">
-      <b>ClipShot</b> · A macOS menu bar app for your recent screenshots<br>
-      Lists your latest captures. Copy file paths one at a time or in bulk, drag files into other apps, and browse your capture history.<br>
-      <a href="https://github.com/pratherbytecraft/ClipShot">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center" valign="middle"><a href="https://www.npmjs.com/package/discrub-core"><img src="https://img.shields.io/npm/v/discrub-core?style=flat-square&logo=npm&logoColor=white&color=CB3837&label=npm" alt="discrub-core on npm"></a></td>
-    <td valign="top">
-      <b>discrub-core</b> · The library behind Discrub 2.x<br>
-      Discord API access, message formatting, and the export pipeline.<br>
-      <a href="https://www.npmjs.com/package/discrub-core">npm</a> ·
-      <a href="https://github.com/pratherbytecraft/discrub-core">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center" valign="middle"><a href="https://www.npmjs.com/package/drip-fs"><img src="https://img.shields.io/npm/v/drip-fs?style=flat-square&logo=npm&logoColor=white&color=CB3837&label=npm" alt="drip-fs on npm"></a></td>
-    <td valign="top">
-      <b>drip-fs</b> · Streaming downloads for web apps and browser extensions<br>
-      Writes large files to disk as they arrive, so memory use stays flat.<br>
-      <a href="https://www.npmjs.com/package/drip-fs">npm</a> ·
-      <a href="https://github.com/pratherbytecraft/drip-fs">Source</a>
-    </td>
-  </tr>
-</table>
-
-## Custom work
-
-Prather Bytecraft builds and hosts sites and apps for businesses. Email [workbench@pratherbytecraft.com](mailto:workbench@pratherbytecraft.com) or read more at [pratherbytecraft.com](https://pratherbytecraft.com/#custom-work).
-
-<a href="https://demos.pratherbytecraft.com/?src=github">
-  <img src="assets/demos-realtor-fade.png" width="49%" alt="Hollis & Vale Realty demo">
-  <img src="assets/demos-raid-fade.png" width="49%" alt="Ashen Vanguard raid board demo">
-</a>
-
-Working demos at [demos.pratherbytecraft.com](https://demos.pratherbytecraft.com/?src=github). Fictional businesses, real code.
-
----
-
 <div align="center">
-
 <a href="https://pratherbytecraft.com"><img src="assets/badges/site.png" height="28" alt="pratherbytecraft.com"></a>
 <a href="https://www.reddit.com/r/discrub/"><img src="assets/badges/discrub.png" height="28" alt="r/discrub"></a>
 <a href="https://www.reddit.com/r/pratherbytecraft/"><img src="assets/badges/pb.png" height="28" alt="r/pratherbytecraft"></a>
 <a href="https://www.youtube.com/@prathercc"><img src="assets/badges/youtube.png" height="28" alt="YouTube"></a>
 <a href="https://ko-fi.com/prathercc"><img src="assets/badges/kofi.png" height="28" alt="Ko-fi"></a>
-
 </div>
+
+<table><tr><td><img src="assets/spacer.png" width="98%" height="1" align="left" alt="">
+
+**For Discord**
+
+<img src="assets/discrub-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/discrub">Discrub</a></b> &nbsp;Search, export and bulk delete your own Discord messages, in your browser.<br><br><img src="assets/retrostat-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/retrostat">Retrostat</a></b> &nbsp;Reports on who posted, who was mentioned and what was busiest, for any date range.<br><br><img src="assets/scour-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/scour">Scour</a></b> &nbsp;Deletes messages by rule, any age, and leaves a receipt.<br><br><img src="assets/vested-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/vested">Vested</a></b> &nbsp;Timed roles that expire on their own.
+
+</td></tr></table>
+
+<table><tr><td><img src="assets/spacer.png" width="98%" height="1" align="left" alt="">
+
+**For your Mac**
+
+<img src="assets/startbar-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/startbar">Startbar</a></b> &nbsp;A taskbar along the bottom of the screen with a Start button, one button per window and a clock.<br><br><img src="assets/filedrawer-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/filedrawer">Filedrawer</a></b> &nbsp;A file manager with tabs, two panes and an address bar, in place of Finder's folder windows.<br><br><img src="assets/clipshot-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://github.com/pratherbytecraft/ClipShot">ClipShot</a></b> &nbsp;A menu bar app that lists your recent screenshots so you can copy or drag them.
+
+</td></tr></table>
+
+<table><tr><td><img src="assets/spacer.png" width="98%" height="1" align="left" alt="">
+
+**Packages**
+
+<img src="assets/npm-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://www.npmjs.com/package/discrub-core">discrub-core</a></b> &nbsp;The library behind Discrub: Discord API access, message formatting, and the export pipeline.<br><br><img src="assets/npm-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://www.npmjs.com/package/drip-fs">drip-fs</a></b> &nbsp;Streaming downloads for web apps and browser extensions that keep memory use flat.
+
+</td></tr></table>
+
+<table><tr><td><img src="assets/spacer.png" width="98%" height="1" align="left" alt="">
+
+**Custom work**
+
+Websites, apps, tools and automations, built and hosted by Prather Bytecraft. A limited number of projects at a time. Email [workbench@pratherbytecraft.com](mailto:workbench@pratherbytecraft.com) or see the working demos at [demos.pratherbytecraft.com](https://demos.pratherbytecraft.com/?src=github).
+
+</td></tr></table>
