@@ -24,7 +24,7 @@
 
 **For your Mac**
 
-<img src="assets/startbar-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/startbar">Startbar</a></b> &nbsp;A taskbar along the bottom of the screen with a Start button, one button per window and a clock.<br><br><img src="assets/filedrawer-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/filedrawer">Filedrawer</a></b> &nbsp;A file manager with tabs, two panes and an address bar, in place of Finder's folder windows.<br><br><img src="assets/clipshot-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://github.com/pratherbytecraft/ClipShot">ClipShot</a></b> &nbsp;A menu bar app that lists your recent screenshots so you can copy or drag them.
+<img src="assets/startbar-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/startbar">Startbar</a></b> &nbsp;A taskbar along the bottom of the screen with a Start button, one button per window and a clock.<br><br><img src="assets/filedrawer-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/filedrawer">Filedrawer</a></b> &nbsp;A file manager with tabs, two panes and an address bar, in place of Finder's folder windows.<br><br><img src="assets/shotdrawer-128.png" width="28" align="top" alt=""> &nbsp;<b><a href="https://pratherbytecraft.com/shotdrawer">Shotdrawer</a></b> &nbsp;A menu bar app that lists your recent screenshots. Click one to copy its path, or drag it into another app.
 
 </td></tr></table>
 
